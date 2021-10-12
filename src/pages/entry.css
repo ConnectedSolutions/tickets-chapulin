@@ -1,0 +1,27 @@
+.entry-page {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-card {
+    width: 450px;
+}
+
+.login-footer {
+    display: flex;
+    align-items: flex-start;
+}
+
+.register-button {
+    margin-left: 10px;
+}
+
+.login-card {
+    box-shadow: 0px 0px 12px -5px black;
+}
+
+.cardy {
+    padding: 20px 5px;
+}
